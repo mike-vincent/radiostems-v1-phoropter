@@ -1,0 +1,482 @@
+[
+  {
+    "id": "v30_00_e77bc1ea",
+    "episode_id": "e77bc1ea-dd00-4b52-941e-4f11b68f130e",
+    "series": "X Minus One",
+    "title": "And the Moon Be Still as Bright Audition",
+    "year": 1955,
+    "cohort": "Easy (1950-1982 Hi-Fi)",
+    "rolloff_hz": 5921.9,
+    "spoken_quote": "Chow! Hey, what do you got there, Jackie? Sorta smothered in cold chicken fat. Good, I thought it was on my good knees. Ha! Ready?",
+    "lens1_sdr_db": 35.07,
+    "lens2_sdr_db": 27.73,
+    "sdr_gain_db": -7.34,
+    "input_url": "https://raw.githubusercontent.com/mike-vincent/radiostems-v1-phoropter/main/audio/v30_00_e77bc1ea_input.wav",
+    "lens1": {
+      "dialogue": "https://raw.githubusercontent.com/mike-vincent/radiostems-v1-phoropter/main/audio/v30_00_e77bc1ea_lens1_dialogue.wav"
+    },
+    "lens2": {
+      "dialogue": "https://raw.githubusercontent.com/mike-vincent/radiostems-v1-phoropter/main/audio/v30_00_e77bc1ea_lens2_dialogue.wav"
+    }
+  },
+  {
+    "id": "v30_01_6d0af37b",
+    "episode_id": "6d0af37b-d239-487d-aa5f-2bb5ec3ee8b4",
+    "series": "Suspense",
+    "title": "The Night Man",
+    "year": 1944,
+    "cohort": "Medium (1940-1949 Organ/Network)",
+    "rolloff_hz": 5437.5,
+    "spoken_quote": "It stepped in a car corner near the elevator with its actual meat. There was a man down on his hands and knees, stopping the floor.",
+    "lens1_sdr_db": 46.19,
+    "lens2_sdr_db": 37.06,
+    "sdr_gain_db": -9.13,
+    "input_url": "https://raw.githubusercontent.com/mike-vincent/radiostems-v1-phoropter/main/audio/v30_01_6d0af37b_input.wav",
+    "lens1": {
+      "dialogue": "https://raw.githubusercontent.com/mike-vincent/radiostems-v1-phoropter/main/audio/v30_01_6d0af37b_lens1_dialogue.wav"
+    },
+    "lens2": {
+      "dialogue": "https://raw.githubusercontent.com/mike-vincent/radiostems-v1-phoropter/main/audio/v30_01_6d0af37b_lens2_dialogue.wav"
+    }
+  },
+  {
+    "id": "v30_02_61b88eda",
+    "episode_id": "61b88eda-d0e6-43ff-bc76-59e7bac8f3b6",
+    "series": "Amos 'n' Andy",
+    "title": "Photo of Jewelry Store Robbery",
+    "year": 1949,
+    "cohort": "Medium (1940-1949 Organ/Network)",
+    "rolloff_hz": 6382.8,
+    "spoken_quote": "I'm proud of you. George, you ought to be ashamed that you ain't got no job. When I don't holler at me just cause eyes out of work, I bet you don't find Molotov's way of screaming and yelling at him.",
+    "lens1_sdr_db": 42.84,
+    "lens2_sdr_db": 35.06,
+    "sdr_gain_db": -7.78,
+    "input_url": "https://raw.githubusercontent.com/mike-vincent/radiostems-v1-phoropter/main/audio/v30_02_61b88eda_input.wav",
+    "lens1": {
+      "dialogue": "https://raw.githubusercontent.com/mike-vincent/radiostems-v1-phoropter/main/audio/v30_02_61b88eda_lens1_dialogue.wav"
+    },
+    "lens2": {
+      "dialogue": "https://raw.githubusercontent.com/mike-vincent/radiostems-v1-phoropter/main/audio/v30_02_61b88eda_lens2_dialogue.wav"
+    }
+  },
+  {
+    "id": "v30_03_383cb9e2",
+    "episode_id": "383cb9e2-bf0a-40b6-bb85-8132bc103f61",
+    "series": "The Adventures of Sam Spade",
+    "title": "The One Hour Caper",
+    "year": 1948,
+    "cohort": "Medium (1940-1949 Organ/Network)",
+    "rolloff_hz": 4554.7,
+    "spoken_quote": "The water is bloody inside and it jumped back out of the way. It saw him through. The first buffer caught him just fucks the knees.",
+    "lens1_sdr_db": 48.42,
+    "lens2_sdr_db": 42.47,
+    "sdr_gain_db": -5.95,
+    "input_url": "https://raw.githubusercontent.com/mike-vincent/radiostems-v1-phoropter/main/audio/v30_03_383cb9e2_input.wav",
+    "lens1": {
+      "dialogue": "https://raw.githubusercontent.com/mike-vincent/radiostems-v1-phoropter/main/audio/v30_03_383cb9e2_lens1_dialogue.wav"
+    },
+    "lens2": {
+      "dialogue": "https://raw.githubusercontent.com/mike-vincent/radiostems-v1-phoropter/main/audio/v30_03_383cb9e2_lens2_dialogue.wav"
+    }
+  },
+  {
+    "id": "v30_04_cb36b1d7",
+    "episode_id": "cb36b1d7-0380-4f98-a376-1e53870568f6",
+    "series": "The Adventures of Philip Marlowe",
+    "title": "The Panama Hat",
+    "year": 1948,
+    "cohort": "Medium (1940-1949 Organ/Network)",
+    "rolloff_hz": 4117.2,
+    "spoken_quote": "Each one threatens my husband's life. Yet both he and uncle A reconsider them nothing more than the work of some harmless crank. In spite of the fact that for the last several days I've seen a strange man lurking away.",
+    "lens1_sdr_db": 38.13,
+    "lens2_sdr_db": 31.01,
+    "sdr_gain_db": -7.12,
+    "input_url": "https://raw.githubusercontent.com/mike-vincent/radiostems-v1-phoropter/main/audio/v30_04_cb36b1d7_input.wav",
+    "lens1": {
+      "dialogue": "https://raw.githubusercontent.com/mike-vincent/radiostems-v1-phoropter/main/audio/v30_04_cb36b1d7_lens1_dialogue.wav"
+    },
+    "lens2": {
+      "dialogue": "https://raw.githubusercontent.com/mike-vincent/radiostems-v1-phoropter/main/audio/v30_04_cb36b1d7_lens2_dialogue.wav"
+    }
+  },
+  {
+    "id": "v30_05_580d9053",
+    "episode_id": "580d9053-2ecd-4275-a2b5-757e4701e58a",
+    "series": "Suspense",
+    "title": "The Kettler Method",
+    "year": 1942,
+    "cohort": "Medium (1940-1949 Organ/Network)",
+    "rolloff_hz": 4371.1,
+    "spoken_quote": "screen, section and radio, presented each week to bring you to the edge of your chair to keep you in the suspense.",
+    "lens1_sdr_db": 36.35,
+    "lens2_sdr_db": 27.11,
+    "sdr_gain_db": -9.24,
+    "input_url": "https://raw.githubusercontent.com/mike-vincent/radiostems-v1-phoropter/main/audio/v30_05_580d9053_input.wav",
+    "lens1": {
+      "dialogue": "https://raw.githubusercontent.com/mike-vincent/radiostems-v1-phoropter/main/audio/v30_05_580d9053_lens1_dialogue.wav"
+    },
+    "lens2": {
+      "dialogue": "https://raw.githubusercontent.com/mike-vincent/radiostems-v1-phoropter/main/audio/v30_05_580d9053_lens2_dialogue.wav"
+    }
+  },
+  {
+    "id": "v30_06_986cf1b9",
+    "episode_id": "986cf1b9-6ccb-4e9c-982a-52c301dcbb2c",
+    "series": "The Shadow",
+    "title": "House of Fun",
+    "year": 1939,
+    "cohort": "Hard (1926-1939 Pre-LP Shellac)",
+    "rolloff_hz": 4793.0,
+    "spoken_quote": "it's the Clamb of India. And he can't say, well, he can't say that. He's a man, he's a man, he's a man, he's a man. Hurry, hurry, hurry, your jobs in power. Power on the shoulder.",
+    "lens1_sdr_db": 33.92,
+    "lens2_sdr_db": 40.13,
+    "sdr_gain_db": 6.21,
+    "input_url": "https://raw.githubusercontent.com/mike-vincent/radiostems-v1-phoropter/main/audio/v30_06_986cf1b9_input.wav",
+    "lens1": {
+      "dialogue": "https://raw.githubusercontent.com/mike-vincent/radiostems-v1-phoropter/main/audio/v30_06_986cf1b9_lens1_dialogue.wav"
+    },
+    "lens2": {
+      "dialogue": "https://raw.githubusercontent.com/mike-vincent/radiostems-v1-phoropter/main/audio/v30_06_986cf1b9_lens2_dialogue.wav"
+    }
+  },
+  {
+    "id": "v30_07_003cf622",
+    "episode_id": "003cf622-a780-4bf1-ad4a-b453fac5fe95",
+    "series": "Lights Out",
+    "title": "Cat Wife",
+    "year": 1938,
+    "cohort": "Hard (1926-1939 Pre-LP Shellac)",
+    "rolloff_hz": 7043.0,
+    "spoken_quote": "I'm going to get out of here. I'm going to put you on. I'm going to go on. Don't listen. Don't listen.",
+    "lens1_sdr_db": 28.14,
+    "lens2_sdr_db": 28.85,
+    "sdr_gain_db": 0.71,
+    "input_url": "https://raw.githubusercontent.com/mike-vincent/radiostems-v1-phoropter/main/audio/v30_07_003cf622_input.wav",
+    "lens1": {
+      "dialogue": "https://raw.githubusercontent.com/mike-vincent/radiostems-v1-phoropter/main/audio/v30_07_003cf622_lens1_dialogue.wav"
+    },
+    "lens2": {
+      "dialogue": "https://raw.githubusercontent.com/mike-vincent/radiostems-v1-phoropter/main/audio/v30_07_003cf622_lens2_dialogue.wav"
+    }
+  },
+  {
+    "id": "v30_08_15ddf73b",
+    "episode_id": "15ddf73b-09ad-4479-9dbe-da82514b53bd",
+    "series": "Lights Out",
+    "title": "Strange Couple Stays Overnight",
+    "year": 1935,
+    "cohort": "Hard (1926-1939 Pre-LP Shellac)",
+    "rolloff_hz": 3980.5,
+    "spoken_quote": "Now, friend, if I doubt, when I have soaked in this skin and this person's strong, I'm not the victim.",
+    "lens1_sdr_db": 49.82,
+    "lens2_sdr_db": 46.68,
+    "sdr_gain_db": -3.14,
+    "input_url": "https://raw.githubusercontent.com/mike-vincent/radiostems-v1-phoropter/main/audio/v30_08_15ddf73b_input.wav",
+    "lens1": {
+      "dialogue": "https://raw.githubusercontent.com/mike-vincent/radiostems-v1-phoropter/main/audio/v30_08_15ddf73b_lens1_dialogue.wav"
+    },
+    "lens2": {
+      "dialogue": "https://raw.githubusercontent.com/mike-vincent/radiostems-v1-phoropter/main/audio/v30_08_15ddf73b_lens2_dialogue.wav"
+    }
+  },
+  {
+    "id": "v30_09_451c06b3",
+    "episode_id": "451c06b3-7ac3-4df6-a63f-b41a096d2bea",
+    "series": "The Shadow",
+    "title": "Ghosts Can Kill",
+    "year": 1939,
+    "cohort": "Hard (1926-1939 Pre-LP Shellac)",
+    "rolloff_hz": 6019.5,
+    "spoken_quote": "Okay, then if you're gonna kill me, I'm gonna come back from the grave and get even with some fire Empty threats will vary nothing common. Oh, you don't believe I can do it",
+    "lens1_sdr_db": 37.88,
+    "lens2_sdr_db": 32.43,
+    "sdr_gain_db": -5.45,
+    "input_url": "https://raw.githubusercontent.com/mike-vincent/radiostems-v1-phoropter/main/audio/v30_09_451c06b3_input.wav",
+    "lens1": {
+      "dialogue": "https://raw.githubusercontent.com/mike-vincent/radiostems-v1-phoropter/main/audio/v30_09_451c06b3_lens1_dialogue.wav"
+    },
+    "lens2": {
+      "dialogue": "https://raw.githubusercontent.com/mike-vincent/radiostems-v1-phoropter/main/audio/v30_09_451c06b3_lens2_dialogue.wav"
+    }
+  },
+  {
+    "id": "v30_10_a904b087",
+    "episode_id": "a904b087-4836-4680-8b0b-92fadf753666",
+    "series": "X Minus One",
+    "title": "The Parade",
+    "year": 1955,
+    "cohort": "Easy (1950-1982 Hi-Fi)",
+    "rolloff_hz": 3855.5,
+    "spoken_quote": "Real stuff, Mr. Ryan. And my client has prepared to spend many times that amount. Sit down, Mr. Lucha. Oliver, get the client of cigar, the 50 cent box. Yes, sir.",
+    "lens1_sdr_db": 39.78,
+    "lens2_sdr_db": 33.25,
+    "sdr_gain_db": -6.53,
+    "input_url": "https://raw.githubusercontent.com/mike-vincent/radiostems-v1-phoropter/main/audio/v30_10_a904b087_input.wav",
+    "lens1": {
+      "dialogue": "https://raw.githubusercontent.com/mike-vincent/radiostems-v1-phoropter/main/audio/v30_10_a904b087_lens1_dialogue.wav"
+    },
+    "lens2": {
+      "dialogue": "https://raw.githubusercontent.com/mike-vincent/radiostems-v1-phoropter/main/audio/v30_10_a904b087_lens2_dialogue.wav"
+    }
+  },
+  {
+    "id": "v30_11_5d83c925",
+    "episode_id": "5d83c925-6e3b-47fc-b842-556cafd513a6",
+    "series": "X Minus One",
+    "title": "Mars Is Heaven",
+    "year": 1955,
+    "cohort": "Easy (1950-1982 Hi-Fi)",
+    "rolloff_hz": 7144.5,
+    "spoken_quote": "Steady as you go Mr. Lustig. As you go sir. Airspeed 100. Altitude 1000. Radar and again. So levels.",
+    "lens1_sdr_db": 51.48,
+    "lens2_sdr_db": 49.64,
+    "sdr_gain_db": -1.84,
+    "input_url": "https://raw.githubusercontent.com/mike-vincent/radiostems-v1-phoropter/main/audio/v30_11_5d83c925_input.wav",
+    "lens1": {
+      "dialogue": "https://raw.githubusercontent.com/mike-vincent/radiostems-v1-phoropter/main/audio/v30_11_5d83c925_lens1_dialogue.wav"
+    },
+    "lens2": {
+      "dialogue": "https://raw.githubusercontent.com/mike-vincent/radiostems-v1-phoropter/main/audio/v30_11_5d83c925_lens2_dialogue.wav"
+    }
+  },
+  {
+    "id": "v30_12_fafc9dce",
+    "episode_id": "fafc9dce-61c1-4e4f-87e9-0a113fe3599a",
+    "series": "X Minus One",
+    "title": "Universe",
+    "year": 1955,
+    "cohort": "Easy (1950-1982 Hi-Fi)",
+    "rolloff_hz": 4968.8,
+    "spoken_quote": "corn, ladder and passage, door and locker fit for the needs of the yet unborn. He looked on his work and found it pleasing, neat for a r-",
+    "lens1_sdr_db": 37.95,
+    "lens2_sdr_db": 32.13,
+    "sdr_gain_db": -5.82,
+    "input_url": "https://raw.githubusercontent.com/mike-vincent/radiostems-v1-phoropter/main/audio/v30_12_fafc9dce_input.wav",
+    "lens1": {
+      "dialogue": "https://raw.githubusercontent.com/mike-vincent/radiostems-v1-phoropter/main/audio/v30_12_fafc9dce_lens1_dialogue.wav"
+    },
+    "lens2": {
+      "dialogue": "https://raw.githubusercontent.com/mike-vincent/radiostems-v1-phoropter/main/audio/v30_12_fafc9dce_lens2_dialogue.wav"
+    }
+  },
+  {
+    "id": "v30_13_155d729d",
+    "episode_id": "155d729d-a0ab-489c-8143-21b483e9f6f6",
+    "series": "X Minus One",
+    "title": "The Man in the Moon",
+    "year": 1955,
+    "cohort": "Easy (1950-1982 Hi-Fi)",
+    "rolloff_hz": 3039.1,
+    "spoken_quote": "wavelength is a restricted band. Hello, hello Earth. Oh whoever you are you're on a coded wavelength. Tune out. This frequency is reserved for the federal Bureau of Missing Persons.",
+    "lens1_sdr_db": 39.69,
+    "lens2_sdr_db": 28.58,
+    "sdr_gain_db": -11.11,
+    "input_url": "https://raw.githubusercontent.com/mike-vincent/radiostems-v1-phoropter/main/audio/v30_13_155d729d_input.wav",
+    "lens1": {
+      "dialogue": "https://raw.githubusercontent.com/mike-vincent/radiostems-v1-phoropter/main/audio/v30_13_155d729d_lens1_dialogue.wav"
+    },
+    "lens2": {
+      "dialogue": "https://raw.githubusercontent.com/mike-vincent/radiostems-v1-phoropter/main/audio/v30_13_155d729d_lens2_dialogue.wav"
+    }
+  },
+  {
+    "id": "v30_14_af733c3d",
+    "episode_id": "af733c3d-4952-42f5-b8c0-053f279a0f55",
+    "series": "X Minus One",
+    "title": "Pyrigi's Wonderful Dolls",
+    "year": 1955,
+    "cohort": "Easy (1950-1982 Hi-Fi)",
+    "rolloff_hz": 4078.1,
+    "spoken_quote": "I'm afraid we'll have to call off the shopping y'all. Oh, Henry, we promise him to be... Well, I'm sorry, but it's just one of those things. You've been the wife of an army colonel long enough to know his life isn't his own. Why is it...",
+    "lens1_sdr_db": 35.87,
+    "lens2_sdr_db": 30.79,
+    "sdr_gain_db": -5.08,
+    "input_url": "https://raw.githubusercontent.com/mike-vincent/radiostems-v1-phoropter/main/audio/v30_14_af733c3d_input.wav",
+    "lens1": {
+      "dialogue": "https://raw.githubusercontent.com/mike-vincent/radiostems-v1-phoropter/main/audio/v30_14_af733c3d_lens1_dialogue.wav"
+    },
+    "lens2": {
+      "dialogue": "https://raw.githubusercontent.com/mike-vincent/radiostems-v1-phoropter/main/audio/v30_14_af733c3d_lens2_dialogue.wav"
+    }
+  },
+  {
+    "id": "v30_15_bbd67eef",
+    "episode_id": "bbd67eef-d4e5-49fc-a47a-2621e8ce4fa8",
+    "series": "X Minus One",
+    "title": "Dr. Grimshaw's Sanitarium",
+    "year": 1955,
+    "cohort": "Easy (1950-1982 Hi-Fi)",
+    "rolloff_hz": 7168.0,
+    "spoken_quote": "to dark coming out of a cemetery with a wooden kimono. We're moving one of Grimshaw's patients to a new grave. They always travel like this. Lockcock Shaw, how about skipping the third degree?",
+    "lens1_sdr_db": 34.2,
+    "lens2_sdr_db": 30.16,
+    "sdr_gain_db": -4.04,
+    "input_url": "https://raw.githubusercontent.com/mike-vincent/radiostems-v1-phoropter/main/audio/v30_15_bbd67eef_input.wav",
+    "lens1": {
+      "dialogue": "https://raw.githubusercontent.com/mike-vincent/radiostems-v1-phoropter/main/audio/v30_15_bbd67eef_lens1_dialogue.wav"
+    },
+    "lens2": {
+      "dialogue": "https://raw.githubusercontent.com/mike-vincent/radiostems-v1-phoropter/main/audio/v30_15_bbd67eef_lens2_dialogue.wav"
+    }
+  },
+  {
+    "id": "v30_16_2d3a402b",
+    "episode_id": "2d3a402b-304a-46b9-a072-dc90137d708c",
+    "series": "X Minus One",
+    "title": "Nightmare",
+    "year": 1955,
+    "cohort": "Easy (1950-1982 Hi-Fi)",
+    "rolloff_hz": 7441.4,
+    "spoken_quote": "These nuclear fission equations are inaccurate. Well sir, you know the computer is a highly complicated machine, more complicated in many ways than the human brain. I am not...",
+    "lens1_sdr_db": 30.85,
+    "lens2_sdr_db": 28.69,
+    "sdr_gain_db": -2.16,
+    "input_url": "https://raw.githubusercontent.com/mike-vincent/radiostems-v1-phoropter/main/audio/v30_16_2d3a402b_input.wav",
+    "lens1": {
+      "dialogue": "https://raw.githubusercontent.com/mike-vincent/radiostems-v1-phoropter/main/audio/v30_16_2d3a402b_lens1_dialogue.wav"
+    },
+    "lens2": {
+      "dialogue": "https://raw.githubusercontent.com/mike-vincent/radiostems-v1-phoropter/main/audio/v30_16_2d3a402b_lens2_dialogue.wav"
+    }
+  },
+  {
+    "id": "v30_17_d68e371a",
+    "episode_id": "d68e371a-3674-4e1b-a372-10156385854b",
+    "series": "X Minus One",
+    "title": "The Embassy",
+    "year": 1955,
+    "cohort": "Easy (1950-1982 Hi-Fi)",
+    "rolloff_hz": 3910.2,
+    "spoken_quote": "How, of course, what is the sense of all is you'll know there ain't no Martian embassy into yours? This crackpot is paying us $100 a day and we gotta keep them happy, you understand? Yeah.",
+    "lens1_sdr_db": 25.8,
+    "lens2_sdr_db": 26.08,
+    "sdr_gain_db": 0.28,
+    "input_url": "https://raw.githubusercontent.com/mike-vincent/radiostems-v1-phoropter/main/audio/v30_17_d68e371a_input.wav",
+    "lens1": {
+      "dialogue": "https://raw.githubusercontent.com/mike-vincent/radiostems-v1-phoropter/main/audio/v30_17_d68e371a_lens1_dialogue.wav"
+    },
+    "lens2": {
+      "dialogue": "https://raw.githubusercontent.com/mike-vincent/radiostems-v1-phoropter/main/audio/v30_17_d68e371a_lens2_dialogue.wav"
+    }
+  },
+  {
+    "id": "v30_18_eae60ad5",
+    "episode_id": "eae60ad5-6491-4a35-b28f-8d14948ee0eb",
+    "series": "X Minus One",
+    "title": "The Veldt",
+    "year": 1955,
+    "cohort": "Easy (1950-1982 Hi-Fi)",
+    "rolloff_hz": 7441.4,
+    "spoken_quote": "The green forest of Sherwood and the quiet forms of Robin and his merry men gave way to the role of the high seas and the smell of salt in the air as sir Henry",
+    "lens1_sdr_db": 30.97,
+    "lens2_sdr_db": 28.4,
+    "sdr_gain_db": -2.57,
+    "input_url": "https://raw.githubusercontent.com/mike-vincent/radiostems-v1-phoropter/main/audio/v30_18_eae60ad5_input.wav",
+    "lens1": {
+      "dialogue": "https://raw.githubusercontent.com/mike-vincent/radiostems-v1-phoropter/main/audio/v30_18_eae60ad5_lens1_dialogue.wav"
+    },
+    "lens2": {
+      "dialogue": "https://raw.githubusercontent.com/mike-vincent/radiostems-v1-phoropter/main/audio/v30_18_eae60ad5_lens2_dialogue.wav"
+    }
+  },
+  {
+    "id": "v30_19_33b32032",
+    "episode_id": "33b32032-1a1a-43b5-877c-3fffb7626492",
+    "series": "X Minus One",
+    "title": "Almost Human",
+    "year": 1955,
+    "cohort": "Easy (1950-1982 Hi-Fi)",
+    "rolloff_hz": 7457.0,
+    "spoken_quote": "dangerous. The world is not yet ready for such a thing. Besides, I must study. As you can see by his play, he is very young.",
+    "lens1_sdr_db": 43.2,
+    "lens2_sdr_db": 35.96,
+    "sdr_gain_db": -7.24,
+    "input_url": "https://raw.githubusercontent.com/mike-vincent/radiostems-v1-phoropter/main/audio/v30_19_33b32032_input.wav",
+    "lens1": {
+      "dialogue": "https://raw.githubusercontent.com/mike-vincent/radiostems-v1-phoropter/main/audio/v30_19_33b32032_lens1_dialogue.wav"
+    },
+    "lens2": {
+      "dialogue": "https://raw.githubusercontent.com/mike-vincent/radiostems-v1-phoropter/main/audio/v30_19_33b32032_lens2_dialogue.wav"
+    }
+  },
+  {
+    "id": "v30_20_9b8b03a2",
+    "episode_id": "9b8b03a2-6a36-4fb7-b20c-b6bbb3b2cd17",
+    "series": "X Minus One",
+    "title": "Courtesy",
+    "year": 1955,
+    "cohort": "Easy (1950-1982 Hi-Fi)",
+    "rolloff_hz": 3582.0,
+    "spoken_quote": "On June 3rd 1997, less than two months ago, the last of our supply ships blasted off from land over the reef.",
+    "lens1_sdr_db": 41.06,
+    "lens2_sdr_db": 32.09,
+    "sdr_gain_db": -8.97,
+    "input_url": "https://raw.githubusercontent.com/mike-vincent/radiostems-v1-phoropter/main/audio/v30_20_9b8b03a2_input.wav",
+    "lens1": {
+      "dialogue": "https://raw.githubusercontent.com/mike-vincent/radiostems-v1-phoropter/main/audio/v30_20_9b8b03a2_lens1_dialogue.wav"
+    },
+    "lens2": {
+      "dialogue": "https://raw.githubusercontent.com/mike-vincent/radiostems-v1-phoropter/main/audio/v30_20_9b8b03a2_lens2_dialogue.wav"
+    }
+  },
+  {
+    "id": "v30_21_2a85aab9",
+    "episode_id": "2a85aab9-f301-4525-8d6a-01b8bd82107f",
+    "series": "X Minus One",
+    "title": "Cold Equation",
+    "year": 1955,
+    "cohort": "Easy (1950-1982 Hi-Fi)",
+    "rolloff_hz": 5906.2,
+    "spoken_quote": "the Stardust, the crew was working like beavers to get the EDS, the emergency dispatch ship ready. Mechanics and technicians were swarming all over the place. Girls and inspectors uniforms were",
+    "lens1_sdr_db": 34.27,
+    "lens2_sdr_db": 32.57,
+    "sdr_gain_db": -1.7,
+    "input_url": "https://raw.githubusercontent.com/mike-vincent/radiostems-v1-phoropter/main/audio/v30_21_2a85aab9_input.wav",
+    "lens1": {
+      "dialogue": "https://raw.githubusercontent.com/mike-vincent/radiostems-v1-phoropter/main/audio/v30_21_2a85aab9_lens1_dialogue.wav"
+    },
+    "lens2": {
+      "dialogue": "https://raw.githubusercontent.com/mike-vincent/radiostems-v1-phoropter/main/audio/v30_21_2a85aab9_lens2_dialogue.wav"
+    }
+  },
+  {
+    "id": "v30_22_3e7d4ef0",
+    "episode_id": "3e7d4ef0-38d1-4dee-82ef-b1ba792b6749",
+    "series": "Amos 'n' Andy",
+    "title": "Jackson's New Year's Eve",
+    "year": 1944,
+    "cohort": "Medium (1940-1949 Organ/Network)",
+    "rolloff_hz": 3816.4,
+    "spoken_quote": "Yeah, well, ain't I? Just stopped in there finding out what you're doing New Year's Eve. I thought maybe you'd like to go with me and Ruby over there. Wait a minute, Amos. Wait a minute. I'm sorry to...",
+    "lens1_sdr_db": 30.9,
+    "lens2_sdr_db": 26.54,
+    "sdr_gain_db": -4.36,
+    "input_url": "https://raw.githubusercontent.com/mike-vincent/radiostems-v1-phoropter/main/audio/v30_22_3e7d4ef0_input.wav",
+    "lens1": {
+      "dialogue": "https://raw.githubusercontent.com/mike-vincent/radiostems-v1-phoropter/main/audio/v30_22_3e7d4ef0_lens1_dialogue.wav"
+    },
+    "lens2": {
+      "dialogue": "https://raw.githubusercontent.com/mike-vincent/radiostems-v1-phoropter/main/audio/v30_22_3e7d4ef0_lens2_dialogue.wav"
+    }
+  },
+  {
+    "id": "v30_23_71aec5b6",
+    "episode_id": "71aec5b6-ff2c-481f-854d-2f6093905fdc",
+    "series": "The Whistler",
+    "title": "Double Cross",
+    "year": 1942,
+    "cohort": "Medium (1940-1949 Organ/Network)",
+    "rolloff_hz": 5199.2,
+    "spoken_quote": "outside the snow falls and huge floating flakes. Inside an apartment, young Joe Blake sits on the floor before a small Christmas tree with his four-year-old neck.",
+    "lens1_sdr_db": 34.59,
+    "lens2_sdr_db": 30.79,
+    "sdr_gain_db": -3.8,
+    "input_url": "https://raw.githubusercontent.com/mike-vincent/radiostems-v1-phoropter/main/audio/v30_23_71aec5b6_input.wav",
+    "lens1": {
+      "dialogue": "https://raw.githubusercontent.com/mike-vincent/radiostems-v1-phoropter/main/audio/v30_23_71aec5b6_lens1_dialogue.wav"
+    },
+    "lens2": {
+      "dialogue": "https://raw.githubusercontent.com/mike-vincent/radiostems-v1-phoropter/main/audio/v30_23_71aec5b6_lens2_dialogue.wav"
+    }
+  }
+]
